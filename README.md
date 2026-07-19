@@ -1,16 +1,27 @@
-## Hi there 👋
+# Universal Integration Layer (Middleware + iPaaS Examples)
 
-<!--
-**Curaitor/Curaitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, modular integration framework demonstrating how to build flexible,
+decoupled, observable integration layers using API gateways, event-driven
+middleware, ETL/ELT pipelines, and iPaaS platforms.
 
-Here are some ideas to get you started:
+This repository includes:
+- Real-world connector examples (Salesforce → Snowflake, GitHub → Mistral)
+- Starter code templates for building custom middleware
+- GitHub Actions CI/CD workflow
+- Workflow diagrams (ASCII + PNG)
+- Complete folder structure for scalable integration projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Goals
+
+- Keep integration logic out of application codebases
+- Centralize monitoring, retries, and error handling
+- Provide reusable connectors and workflows
+- Demonstrate modern integration patterns (API-first, event-driven, ETL/ELT)
+- Enable faster debugging and iteration
+
+---
+
+## 📁 Repository Structure
+
